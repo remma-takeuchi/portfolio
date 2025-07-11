@@ -5,8 +5,9 @@ const nextConfig = {
   images: {
     unoptimized: true
   },
-  basePath: process.env.NODE_ENV === 'production' ? '/portfolio' : '',
-  assetPrefix: process.env.NODE_ENV === 'production' ? '/portfolio/' : ''
+  // カスタムドメインの場合はbasePathを空にする
+  basePath: process.env.CUSTOM_DOMAIN ? '' : (process.env.NODE_ENV === 'production' ? '/portfolio' : ''),
+  assetPrefix: process.env.CUSTOM_DOMAIN ? '' : (process.env.NODE_ENV === 'production' ? '/portfolio/' : '')
 }
 
 module.exports = nextConfig 
