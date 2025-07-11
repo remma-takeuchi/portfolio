@@ -39,5 +39,5 @@
 
 ## その他リンク
 
-- [RTApps (個人事業屋号) ホームページ](https://www.rtapps.jp)
+- [RTAppsホームページ)](https://www.rtapps.jp)　(個人事業)
 - [本ページのGitHub リポジトリ](https://github.com/remma-takeuchi/portfolio)
