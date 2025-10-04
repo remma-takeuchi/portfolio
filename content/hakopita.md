@@ -1,6 +1,6 @@
 # はこピタ
 
-![link](assets/hakopita_image.png)
+![link](/content/assets/hakopita_image.png)
 <!-- <img src="assets/hakopita_image.png" alt="はこピタアプリの画像" width="800"> -->
 
 「はこピタ」は、収納ケースや棚をサイズ・素材・色などの条件で検索・比較できるモバイルアプリです。  
@@ -45,7 +45,7 @@ SNS等で調べると、多くの方が同じ悩みを持っていることが�
 - GitHub Actionsを活用したCI/CDにより、開発〜デプロイまでを効率化しています
 
 #### バックエンドのシステム概要図
-![link](assets/aws_serverless_architecture.drawio.png)
+![link](/content/assets/aws_serverless_architecture.drawio.png)
 
 #### 参考：バックエンドのサンプルコード ###
 [HakoPita FastAPI](https://github.com/remma-takeuchi/hakopita_fast_api)  
