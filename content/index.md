@@ -31,13 +31,16 @@
 
 ### [**はこピタ**](/projects/hakopita)
 
+![link](assets/hakopita_image.png)
+
 - iOS/Androidの収納サポートアプリ
 - SNS・メディアで話題となり、累計70万DL・月間MAU7万以上を達成（2025年時点）
+- [シンプルスタイル大賞 2025 金賞受賞](https://housekeeping.or.jp/simple_style/simplestyle-2025/)
 - ストアリンク: [AppStore](https://apps.apple.com/jp/app/id1644135792), [GooglePlay](https://play.google.com/store/apps/details?id=net.ddns.rtapps.hako_pita)
 
 ---
 
 ## その他リンク
 
-- [RTAppsホームページ)](https://www.rtapps.jp)　(個人事業)
+- [RTAppsホームページ](https://www.rtapps.jp)　(個人事業)
 - [本ページのGitHub リポジトリ](https://github.com/remma-takeuchi/portfolio)
