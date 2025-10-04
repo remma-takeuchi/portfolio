@@ -1,6 +1,6 @@
 # はこピタ
 
-![link](assets/hakopita_image.png)
+![link](/content/assets/hakopita_image.png)
 <!-- <img src="assets/hakopita_image.png" alt="はこピタアプリの画像" width="800"> -->
 
 「はこピタ」は、収納ケースや棚をサイズ・素材・色などの条件で検索・比較できるモバイルアプリです。  

@@ -31,7 +31,7 @@
 
 ### [**はこピタ**](/projects/hakopita)
 
-![link](assets/hakopita_image.png)
+![link](/content/assets/hakopita_image.png)
 
 - iOS/Androidの収納サポートアプリ
 - SNS・メディアで話題となり、累計70万DL・月間MAU7万以上を達成（2025年時点）
