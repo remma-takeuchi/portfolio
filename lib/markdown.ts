@@ -3,6 +3,7 @@ import path from 'path'
 import matter from 'gray-matter'
 import { remark } from 'remark'
 import html from 'remark-html'
+import gfm from 'remark-gfm'
 
 export interface MarkdownContent {
   slug: string
@@ -25,6 +26,7 @@ export async function getMarkdownContent(slug: string): Promise<MarkdownContent 
     
     // remarkでMarkdownをHTMLに変換
     const processedContent = await remark()
+      .use(gfm)
       .use(html)
       .process(content)
     
